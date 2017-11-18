@@ -1,6 +1,5 @@
 '''
 Created on 18Sep.,2017
-
 @author: 43312942
 '''
 import nltk, re, random, sqlite3, datetime, time, calendar, axelrod
